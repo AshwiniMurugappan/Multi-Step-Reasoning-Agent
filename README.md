@@ -4,6 +4,8 @@ A sophisticated AI agent built with **Streamlit** and **Gemini 3** that utilizes
 
 ---
 
+![Dashboard Screenshot](ReasoningAgent1.png)
+
 ## ✨ Key Features
 
 * **Multi-Stage Reasoning Loop**: Unlike standard chatbots, this agent follows a structured cognitive process:
@@ -24,6 +26,8 @@ A sophisticated AI agent built with **Streamlit** and **Gemini 3** that utilizes
 * **Core Library**: `google-genai`
 
 ---
+
+![Dashboard Screenshot](ReasoningAgentJSON.png)
 
 ## 🚀 Getting Started
 
