@@ -39,7 +39,7 @@ A sophisticated AI agent built with **Streamlit** and **Gemini 3** that utilizes
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/multi-step-reasoning-agent.git](https://github.com/your-username/multi-step-reasoning-agent.git)
+    git clone [https://github.com/AshwiniMurugappan/multi-step-reasoning-agent.git](https://github.com/AshwiniMurugappan/multi-step-reasoning-agent.git)
     cd multi-step-reasoning-agent
     ```
 
